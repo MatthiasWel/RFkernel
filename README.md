@@ -1,4 +1,4 @@
-# Code fo the paper "Deciphering molecular embeddings with centered kernel alignment"
+# Code for the paper "Deciphering molecular embeddings with centered kernel alignment"
 
 To run the code, adjust the paths in the config file and install the conda environment for the experiment from the corresponding yml file.
 
